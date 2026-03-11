@@ -10,7 +10,17 @@ div{
     color: darkblue;
 }
 
+h1{
+    font-weight: 400;
+}
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+}
+a:{
+    text-decoration: none;
+}
+
+a:hover{
+    color-scheme: dark;
 }
